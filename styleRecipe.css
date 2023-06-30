@@ -1,0 +1,68 @@
+body {
+    background-image: url("https://img.freepik.com/free-photo/top-view-sketchbook-with-various-spices-herbs-arranged-around_141793-7315.jpg?w=900&t=st=1688144121~exp=1688144721~hmac=2618b0d350cc3b7de636e385d0d31762ff734951339181336d966ebdd38ddf22");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+    font-family: 'Agdasima', sans-serif;
+    font-size: 150px;
+    margin-bottom: 0px;
+}
+
+img {
+
+ 
+    width: 50%;
+}
+
+h2 {
+    color: blue;
+    font-family: 'Agdasima', sans-serif;
+    font-size: 70px;
+ 
+}
+
+p {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin: 10px;
+}
+
+li {
+    color: black;
+    text-decoration: none;
+    margin: 0px 10px 0px 10px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+ol{
+    display: inline-block;
+
+}
+
+.center{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.home{
+    color: blue;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.home:hover{
+    color: lightblue;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
